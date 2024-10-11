@@ -1,1 +1,1 @@
-# Adaptive Dynamic Fusion of Multi-Modal Features for Enhanced Image Representation
+# Adaptive Dynamic Fusion of Multi-Modality Features for Enhanced Image Representation
