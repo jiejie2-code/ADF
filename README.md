@@ -3,30 +3,9 @@ We propose a novel model based on Vision Transformers and an adaptive feature fu
 ## Project Structure
 
 ```
-|-- Multimodal-Sentiment-Analysis
-    |-- Config.py
-    |-- main.py
-    |-- README.md
-    |-- requirements.txt
-    |-- Trainer.py
+|-- ADF-Fusion of multiple modalities images
     |-- data
-    |   |-- .DS_Store
-    |   |-- test.json
-    |   |-- test_without_label.txt
-    |   |-- train.json
-    |   |-- train.txt
-    |   |-- data
     |-- Models
-    |   |-- CMACModel.py
-    |   |-- HSTECModel.py
-    |   |-- NaiveCatModel.py
-    |   |-- NaiveCombineModel.py
-    |   |-- OTEModel.py
-    |   |-- __init__.py
-    |-- src
-    |   |-- CrossModalityAttentionCombineModel.png
-    |   |-- HiddenStateTransformerEncoderCombineModel.png
-    |   |-- OutputTransformerEncoderModel.png
     |-- utils
         |-- common.py
         |-- DataProcess.py
@@ -37,4 +16,8 @@ We propose a novel model based on Vision Transformers and an adaptive feature fu
         |   |-- APIEncode.py
         |   |-- APIMetric.py
         |   |-- __init__.py
+    |-- test.py
+    |-- README.md
+    |-- requirements.txt
+    |-- train.py
 ```
