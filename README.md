@@ -5,19 +5,21 @@ We propose a novel model based on Vision Transformers and an adaptive feature fu
 ```
 |-- ADF-Fusion of multiple modalities images
     |-- data
+        |   |-- data_processed.h5
+    |-- Train_dataset
+        |   |-- ir
+        |   |-- vi
     |-- Models
+        |   |-- Model.pth
     |-- utils
-        |-- common.py
-        |-- DataProcess.py
-        |-- __init__.py
-        |-- APIs
-        |   |-- APIDataset.py
-        |   |-- APIDecode.py
-        |   |-- APIEncode.py
-        |   |-- APIMetric.py
-        |   |-- __init__.py
-    |-- test.py
+        |   |-- Evalustor.py
+        |   |-- dataprocessing.py
+        |   |-- dataset.py
+        |   |-- img_read_save.py
+        |   |-- loss.py
+    |-- Neural_network.py
     |-- README.md
     |-- requirements.txt
     |-- train.py
+    |-- test.py
 ```
