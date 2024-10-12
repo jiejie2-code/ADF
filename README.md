@@ -35,3 +35,6 @@ tensorboardX==2.5.1
 timm==0.4.12
 torch==1.12.1+cu113
 torchvision==0.13.1+cu113
+```
+pip install -r requirements.txt
+```
