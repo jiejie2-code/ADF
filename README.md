@@ -38,5 +38,3 @@ torchvision==0.13.1+cu113
 ```
 pip install -r requirements.txt
 ```
-## Explanatory Note 
-This project has made improvements to CDDFuse(https://github.com/Zhaozixiang1228/MMIF-CDDFuse.git) and achieved significant enhancements in some experimental metrics through thorough experimentation.As the article is currently in the submission stage, we are releasing only a portion of the code and the complete dataset. Upon acceptance for publication, we will make all of the code and trained model files publicly available.
